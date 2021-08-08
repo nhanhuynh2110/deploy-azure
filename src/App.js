@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React KEROKU CONNECT GIT  DOCKER1
+          Learn React KEROKU CONNECT GIT Deploy zuure static web
         </a>
       </header>
     </div>
